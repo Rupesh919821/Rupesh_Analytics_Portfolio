@@ -1,0 +1,1 @@
+This folder includes presentations prepared for business reviews, project summaries, dashboard demonstrations, and analytical findings. The presentations focus on communicating complex insights in a clear and business-friendly format.
