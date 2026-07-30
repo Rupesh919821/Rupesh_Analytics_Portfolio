@@ -1,0 +1,1 @@
+This folder showcases projects related to financial analysis, investment research, portfolio evaluation, ROI analysis, and business performance. The objective is to use data-driven insights to support financial planning and strategic decision-making.
