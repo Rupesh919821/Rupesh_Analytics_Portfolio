@@ -1,0 +1,1 @@
+This folder includes Excel-based analytical solutions featuring advanced formulas, Pivot Tables, Power Query, dashboards, automation, and financial models. These projects demonstrate how Excel can be used to improve reporting efficiency and business decision-making.
