@@ -1,0 +1,1 @@
+This folder contains my latest resumes tailored for different analytical roles, including Data Analyst, Business Analyst, Power BI Developer, Financial Analyst, and Research Analyst positions. It also includes supporting documents such as my cover letter when applicable.
