@@ -1,0 +1,1 @@
+This folder showcases analytics projects developed using Python, primarily leveraging Pandas, NumPy, and Matplotlib. The projects focus on data cleaning, transformation, exploratory data analysis (EDA), automation, and visualization to solve business problems.
