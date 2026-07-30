@@ -1,0 +1,1 @@
+This folder contains business analysis projects focused on requirement gathering, process improvement, gap analysis, stakeholder management, KPI tracking, and strategic recommendations. The work demonstrates how data and business understanding are combined to solve operational challenges.
