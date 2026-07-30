@@ -1,0 +1,1 @@
+This folder contains interactive Power BI dashboards built to monitor KPIs, analyze business performance, and support data-driven decision-making. Projects demonstrate data modeling, DAX, Power Query, dashboard design, and business reporting using real-world datasets.
